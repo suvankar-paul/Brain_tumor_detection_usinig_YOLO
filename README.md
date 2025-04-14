@@ -1,2 +1,4 @@
-# Brain_tumor_classification
-This project uses Convolutional Neural Networks (CNNs) to classify brain tumors from MRI scans as benign or malignant. It involves data preprocessing, model training, and evaluation. The model is deployed through Flask, allowing users to upload MRI images and receive real-time predictions. Built with Python, TensorFlow, Keras  and Flask.
+# Brain_tumor_detection_using_YOLO
+
+This project focuses on detecting and localizing brain tumors from MRI images using the YOLO (You Only Look Once) object detection algorithm. The aim is to leverage the speed and accuracy of YOLO for real-time or near real-time medical image analysis, helping in early and precise tumor detection.
+
